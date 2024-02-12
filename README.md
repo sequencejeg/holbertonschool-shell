@@ -1,1 +1,1 @@
-For practice of Holberton School Shell, Basic projects.
+For use of Holberton School porjects involving Shell, Basics and etc.
