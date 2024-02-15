@@ -1,2 +1,2 @@
 #!/bin/bash
-sort luniq -u
+cat list_1 | sort --ignore-case | uniq -u
